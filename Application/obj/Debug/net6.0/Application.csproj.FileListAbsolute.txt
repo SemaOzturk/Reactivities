@@ -1,0 +1,17 @@
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\Application.deps.json
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\Application.dll
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\ref\Application.dll
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\Application.pdb
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\Domain.dll
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\Persistence.dll
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\Persistence.pdb
+D:\TrainingCodes\Reactivities\Application\bin\Debug\net6.0\Domain.pdb
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.dll
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\ref\Application.dll
+D:\TrainingCodes\Reactivities\Application\obj\Debug\net6.0\Application.pdb
